@@ -4,8 +4,8 @@ This repository contains the snippets, survey results, scripts *Automated evalua
 
 ## Repository contents
 
-- `data/`: Contains survey data
-- 'snippets': Example Go code snippets used in the survey and then for model training.
+- `data/`: Contains survey data and CSV files with aggregated survey data and extracted features used for model training.
+- `snippets/`: Example Go code snippets used in the survey and then for model training.
 - `src/`: Source code for feature extraction and model training.
 
 ## Prerequisites
