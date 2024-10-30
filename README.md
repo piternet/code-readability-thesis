@@ -61,7 +61,7 @@ You can also adjust the code to work with any programming language, not just Go 
 
     ```
    filename   readability_rating
-   1.go       4
+   1.go     4
    1.go     5
    2.go     7
    2.go     4
